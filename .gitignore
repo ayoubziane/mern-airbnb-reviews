@@ -1,0 +1,8 @@
+/backend/.yarn
+/frontend/.yarn
+
+
+/backend/.env
+/backend/.editorconfig
+/frontend/.editorconfig
+/frontend/node_modules
